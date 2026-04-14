@@ -26,4 +26,4 @@ The 1-bit full adder takes in three inputs: A, B, and Carry-In (Cin). These inpu
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED
