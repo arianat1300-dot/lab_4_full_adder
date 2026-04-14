@@ -16,18 +16,18 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
+  ui[0]: "input a"
+  ui[1]: "input b"
   ui[2]: ""
-  ui[3]: ""
+  ui[3]: "input c"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
+  uo[0]: "output s"
+  uo[1]: "output c_out"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
