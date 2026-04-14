@@ -9,11 +9,20 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The 1-bit full adder takes in three inputs: A, B, and Carry-In (Cin). These inputs are combined using XOR, AND, and OR gates to produce two outputs: Sum and Carry-Out (Cout).
 
 ## How to test
 
-Explain how to use your project
+|input a, b, and c_in | output s | output c_out |
+|---------------------|----------|--------------|
+|0 0 0                |0         |0             | 
+|0 0 1                |1         |0             |
+|0 1 0                |1         |0             |
+|0 1 1                |0         |1             |
+|1 0 0                |1         |0             |
+|1 0 1                |0         |1             |
+|1 1 0                |0         |1             | 
+|1 1 1                |1         |1             | 
 
 ## External hardware
 
